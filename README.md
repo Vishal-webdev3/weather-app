@@ -2,7 +2,13 @@
 
 A simple weather app built with HTML, CSS, and JavaScript.  
 It uses the OpenWeatherMap API to display real-time weather information.
+---
 
+## 📸 Screenshot
+
+![weather-app](weather.png)
+
+---
 ## ✨ Features
 - Search weather by city name
 - Displays temperature, weather condition, humidity, wind speed
